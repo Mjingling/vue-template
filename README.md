@@ -10,7 +10,7 @@
 ```
  //请切换到node目录 在node环境下运行下面命令
  npm install git -g
-```   
+```    
 
 > 3、下载本项目，命令如下   
 
@@ -18,8 +18,9 @@
  git clone https://github.com/Mjingling/vue-template.git
 ```  
 
-> 4、安装必须的包   
->
+> 4、安装必须的包     
+
+
 ```
  //请切换到node目录 在node环境下运行下面命令
  cd vue-template //进入文件夹 vue-template
