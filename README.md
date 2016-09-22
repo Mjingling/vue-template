@@ -65,7 +65,7 @@ webpack: bundle is now VALID.
 //看到上边这行代码之后，再浏览器打开 http://localhost:8080/ 即可
 ```       
 
-> 5、打包项目
+> 6、打包项目 会把项目打包到 build 目录中，生成项目最终上线时的样子
 
 ```
  webpack --colors
