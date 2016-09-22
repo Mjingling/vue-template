@@ -1,0 +1,11 @@
+.page{
+  background-color:#f8f8f8;
+  position: absolute;
+  top: 0px;
+  padding-top:50px;
+  left: 0px;
+  right: 0px;
+  bottom: 60px;
+  overflow: auto;
+  text-align: left;
+}
