@@ -1,12 +1,31 @@
 # 【vue-template】项目描述
-这是我的vue练手项目，所用技术为vue vue-router   
-打包工具为： webpack
-# 如何运行   
+这是我的vue练手项目，所用技术为vue、vue-router   
+打包工具为： webpack    
+
+# 目录说明   
+```
+  build --->打包之后文件目录
+  src   --->开发目录【开发目录经过 webpack 打包之后会自动被打包到 build 目录】
+  ---components 组件目录
+  ---css        样式目录
+  ---images     图片目录
+  ---app.js     应用主文件
+  ---index.html 应用主页面
+  ---routers.js 系统路由文件
+```
+
+# 如何运行    
+
+> 如果你只是想看看项目是什么内容，请直接打开 build/index.html文件
+
+
 > 1、安装 nodejs   
 
 下载地址[点此链接下载](http://nodejs.cn/)，详细安装教程请自行百度   
 
-> 2、安装 git   
+> 2、安装 git    
+
+
 ```
  //请切换到node目录 在node环境下运行下面命令
  npm install git -g
